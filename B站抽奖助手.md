@@ -8,3 +8,7 @@
 - 3.有时需要艾特（@）好友。
 
 抽奖助手需要做到上面三点，在抽中奖品之后，会提示用户中奖了，中奖15天之后取关用户
+
+在网上找到了一个类似的抽奖助手[吾爱破解B站抽奖助手](https://www.52pojie.cn/thread-805172-1-1.html),在这之后需要删除抽奖动态[Python删除抽奖转发动态](https://www.52pojie.cn/forum.php?mod=viewthread&tid=949376).
+
+还找到了个[小电视抽奖](https://www.jianshu.com/nb/29870142)
