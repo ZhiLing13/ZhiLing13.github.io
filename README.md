@@ -7,6 +7,7 @@
 
 - 1.[简单粗暴 TensorFlow 2.0](https://mp.weixin.qq.com/s/1QORwL4L8yU_eUjwkzCUww)
 - 2.[Tensorflow中文社区](https://www.tensorflowers.cn/index.php)
+- 3.[GRE AI自动打分 ets NLP论文](https://www.ets.org/research/topics/as_nlp/writing_quality/)
 
 
 ---
