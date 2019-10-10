@@ -12,6 +12,8 @@
 - 3.[GRE AI自动打分 ets NLP论文](https://www.ets.org/research/topics/as_nlp/writing_quality/)
 - 4.[Cell子刊：大鱼大肉吃三天，体重未动大脑先变，不仅发胖还会发炎](https://zhuanlan.zhihu.com/p/85581039)
 - 5.[脚本之家](https://www.jb51.net/)
+- 6.[B站动态抽奖](https://www.hackinn.com/index.php/archives/112/)
+
 ---
 ### 招生信息
 - 1.[美国俄亥俄州肯特州立大学（Kent State University）](https://ruiliurobotics.weebly.com/)
