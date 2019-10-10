@@ -13,6 +13,8 @@
 - 4.[Cell子刊：大鱼大肉吃三天，体重未动大脑先变，不仅发胖还会发炎](https://zhuanlan.zhihu.com/p/85581039)
 - 5.[脚本之家](https://www.jb51.net/)
 - 6.[B站动态抽奖](https://www.hackinn.com/index.php/archives/112/)
+- 7.[进销存管理系统](https://www.lanzous.com/i6p4iib)
+
 
 ---
 ### 招生信息
