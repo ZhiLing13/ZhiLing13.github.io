@@ -14,7 +14,7 @@
 - 5.[脚本之家](https://www.jb51.net/)
 - 6.[B站动态抽奖](https://www.hackinn.com/index.php/archives/112/)
 - 7.[进销存管理系统](https://www.lanzous.com/i6p4iib)
-
+- 8.[2019诺贝尔化学奖](https://www.zhihu.com/search?type=content&q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96&utm_content=search_preset)
 
 ---
 ### 招生信息
