@@ -23,3 +23,9 @@
 
 --- 
 ### 个人论文合集
+
+
+---
+### 微信公众号推荐
+- [小鹿动画学编程](https://blog.csdn.net/qq_36903042/article/details/102513465)
+- [苦逼的码农](https://blog.csdn.net/qq_36903042/article/details/102513465)
