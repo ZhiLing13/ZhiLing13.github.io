@@ -29,3 +29,4 @@
 ### 微信公众号推荐
 - [小鹿动画学编程](https://blog.csdn.net/qq_36903042/article/details/102513465)
 - [苦逼的码农](https://mp.weixin.qq.com/s/bi8sEDmsusJczUlry_Mujw)
+- [《数码宝贝》中泉光子郎的编程水平有多厉害？](https://mp.weixin.qq.com/s/g4TAoewab1nPJPNzpQ090Q)
