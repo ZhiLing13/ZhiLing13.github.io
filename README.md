@@ -26,6 +26,14 @@
    
 
 ---
+### ACM竞赛
+- [CCPC](http://ccpc.io)
+- [ICPC]()
+- [Codeforces](https://www.codeforces.com)
+- [CodeVita](https://www.tcscodevita.com/CodevitaV8/index.jsp)
+
+
+---
 ### 招生信息
 - 1.[美国俄亥俄州肯特州立大学（Kent State University）](https://ruiliurobotics.weebly.com/)
 
