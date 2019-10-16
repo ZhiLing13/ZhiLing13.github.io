@@ -51,6 +51,10 @@
 - [恽之伟](http://math.mit.edu/~zyun/)
 
 ---
+### 物理
+- [曹原](http://quantum.ustc.edu.cn/web/node/368)
+- [曹原 中科大](http://web.mit.edu/caoyuan/www/index.html)
+---
 ### 招生信息
 - 1.[美国俄亥俄州肯特州立大学（Kent State University）](https://ruiliurobotics.weebly.com/)
 
