@@ -49,7 +49,7 @@
 ### 数学
 - [张伟](http://math.mit.edu/~wz2113/)
 - [恽之伟](http://math.mit.edu/~zyun/)
-
+- [数学原理 布尔巴基](https://bbs.pinggu.org/thread-7165440-1-1.html)
 ---
 ### 物理
 - [曹原](http://quantum.ustc.edu.cn/web/node/368)
