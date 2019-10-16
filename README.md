@@ -40,7 +40,9 @@
 
 
 --- 
-### 个人论文合集
+### 论文合集
+- 1.[华人主导，首届国际分布式AI大会开幕，最佳论文奖已出炉](https://mp.weixin.qq.com/s/GuD2M6pKTovdFNrJMDdrIQ)
+- 2.[谷歌大脑2017总结（Jeff Dean执笔，干货满满，值得收藏）](https://blog.csdn.net/yH0VLDe8VG8ep9VGe/article/details/79055073)
 
 
 ---
