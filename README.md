@@ -48,7 +48,8 @@
 ### 论文合集
 - 1.[华人主导，首届国际分布式AI大会开幕，最佳论文奖已出炉](https://mp.weixin.qq.com/s/GuD2M6pKTovdFNrJMDdrIQ)
 - 2.[谷歌大脑2017总结（Jeff Dean执笔，干货满满，值得收藏）](https://blog.csdn.net/yH0VLDe8VG8ep9VGe/article/details/79055073)
-
+- 3.[Kenneth A. Ribet](https://math.berkeley.edu/~ribet/)
+- 4.[Computation of $ \pi $ using arithmetic-geometric mean](https://www.ams.org/journals/mcom/1976-30-135/S0025-5718-1976-0404124-9/)
 
 ---
 ### 微信公众号推荐
