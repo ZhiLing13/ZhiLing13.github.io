@@ -45,6 +45,10 @@
 - [Codeforces](https://www.codeforces.com)
 - [CodeVita](https://www.tcscodevita.com/CodevitaV8/index.jsp)
 
+---
+### 数学
+- [张伟](http://math.mit.edu/~wz2113/)
+- [恽之伟](http://math.mit.edu/~zyun/)
 
 ---
 ### 招生信息
