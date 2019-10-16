@@ -6,6 +6,9 @@
 ### 书籍
 - [深度学习实战](https://www.yanxishe.com/book/5da19bcd49840) -- 微信客服：AIMOOC-XM
 ---
+### 大学公开课
+- 1.[中科大-近似代数](http://staff.ustc.edu.cn/~hjchen/Modern.html)
+---
 ### blog列表
 
 - 1.[简单粗暴 TensorFlow 2.0](https://mp.weixin.qq.com/s/1QORwL4L8yU_eUjwkzCUww)
