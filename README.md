@@ -21,6 +21,7 @@
 - 9.[中国人的信任危机](http://www.yinwang.org/blog-cn/2019/08/17/trust)
 - 10.[Python 3.8正式发布，重要新功能都在这里](https://mp.weixin.qq.com/s/Kik1Ef7BjP0kBSgcLAvWSQ)
 - 11.[60分钟入门PyTorch，官方教程手把手教你训练第一个深度学习模型](https://zhuanlan.zhihu.com/p/86875507)
+- 12.[Mathematica 12中文版软件的注册](https://tiebamma.github.io/InstallTutorial/)
 
 
 ---
