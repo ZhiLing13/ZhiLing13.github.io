@@ -56,6 +56,7 @@
 - [曹原 中科大 ](http://web.mit.edu/caoyuan/www/index.html)
   - [nature 石墨烯超导](http://jarilloherrero.mit.edu/publications/)
   - [mit 个人主页](http://web.mit.edu/caoyuan/www/index.html)
+- [陈逸伦](http://home.ustc.edu.cn/~cyl1995/)
 ---
 ### 招生信息
 - 1.[美国俄亥俄州肯特州立大学（Kent State University）](https://ruiliurobotics.weebly.com/)
