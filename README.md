@@ -79,3 +79,8 @@
 - [小鹿动画学编程](https://blog.csdn.net/qq_36903042/article/details/102513465)
 - [苦逼的码农](https://mp.weixin.qq.com/s/bi8sEDmsusJczUlry_Mujw)
 - [《数码宝贝》中泉光子郎的编程水平有多厉害？](https://mp.weixin.qq.com/s/g4TAoewab1nPJPNzpQ090Q)
+
+### 图书馆信息
+- [zju](http://libweb.zju.edu.cn/libweb/)
+- [tsinghua](http://metalib.lib.tsinghua.edu.cn:8080/V/XQ73MD7M3GP2BDEKKTTKKLXD3CKD7JVYNQQREL4VRA22YN3VFL-00064?FUNC=FIND-DB-1-LCL&pds_handle=GUEST)
+- [pku]()
