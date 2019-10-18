@@ -73,7 +73,7 @@
 - 5.[Number Theory Web](http://www.numbertheory.org/ntw/web.html)
 - 6.[Spartan Ideas](https://spartanideas.msu.edu/)
 - 7.[mathoverflow](https://mathoverflow.net)
-
+- 8.[hust图书馆](http://lib.huse.cn/2012/resource.asp?sign=0)
 ---
 ### 微信公众号推荐
 - [小鹿动画学编程](https://blog.csdn.net/qq_36903042/article/details/102513465)
